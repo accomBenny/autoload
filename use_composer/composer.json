@@ -1,0 +1,9 @@
+{
+    "name": "web/forteach",
+    "autoload": {
+        "psr-4": {
+            "Forteach\\": "src/"
+        }
+    },
+    "require": {}
+}
